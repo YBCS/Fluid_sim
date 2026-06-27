@@ -4,6 +4,8 @@ Part of a collection of fun projects exploring various software ideas using codi
 
 A real-time smoking simulator built with HTML5 Canvas and JavaScript. Uses a grid-based Navier-Stokes fluid solver to produce realistic smoke dynamics — buoyancy, vorticity, diffusion, and dissipation — all running in the browser with no dependencies or build step.
 
+**[Play it here](https://ybcs.github.io/Fluid_sim/)**
+
 ## How It Works
 
 ### Fluid Simulation
